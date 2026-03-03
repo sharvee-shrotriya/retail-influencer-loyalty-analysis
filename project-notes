@@ -1,1 +1,57 @@
+# Fashion Nova Case Study — Project Notes
 
+## Project Title
+Does Hyper-Influencer Marketing Build Customer Loyalty or a Revolving Door?
+A Retail Strategy Case Study — Fashion Nova (2015-2022)
+
+## Hypothesis
+Fashion Nova's synchronized influencer campaign spikes drive short-term 
+revenue surges but are followed by declining customer sentiment and 
+increasing complaint volumes — indicating an acquisition-over-loyalty model.
+
+## Key Data Sources
+- Google Trends: Fashion Nova 2015-2022 (USA, Shopping category)
+- Trustpilot: Customer sentiment over time
+- Press/public reports: Revenue estimates
+- Wikipedia + public press: Campaign timeline
+
+---
+
+## Findings So Far
+
+### 1. Google Trends Analysis
+- 17 spikes identified between 2015-2022
+- Clear upward trend 2016-2018, downward after
+- Peak: November 2018
+- Seasonal pattern every year:
+  - Nov spike = Black Friday/Thanksgiving
+  - Feb/Mar spike = Valentine's Day promotions
+  - May/Jun spike = Summer collection + influencer drops
+  - July = consistently lowest month every year
+- July lows deepening in 2020, 2021, 2022 despite continued 
+  influencer spend = diminishing returns signal
+- Interpretation: Customers not returning between campaigns
+
+### 2. Revenue & Business Data
+- #1 most-searched fashion brand on Google in 2018 (peak confirmed)
+- Spent $40 million on influencer partnerships in 2019 alone
+- Generated $111.9 million in Earned Media Value from influencer 
+  collaborations in 2019
+- Current annual revenue: ~$941.6M to $1B+ (estimated, private company)
+- Revenue held up only because influencer spend kept increasing
+- Growth has stalled despite continued spend
+
+### 3. App Engagement (Loyalty Proxy)
+- App downloads peaked: March 2021 at 390,000
+- App downloads by Feb 2025: ~250,000
+- Decline: 36% drop in app engagement
+- Interpretation: Customer acquisition still working but retention 
+  is declining — supports revolving door hypothesis
+
+---
+
+## Decisions & Why
+- Switched from UCI Online Retail dataset to Fashion Nova — needed 
+  real influencer marketing data, not proxies
+- Using Google Trends as campaign activity proxy
+- Using app dow
